@@ -5,24 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="865113cd-d090-40d8-8715-6238ab101d7e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ETLIFY.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brushup/Lists &amp; Tuples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brushup/conditional statements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brushup/decorator_funcs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brushup/dictionaries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brushup/error handling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brushup/higher_order_funcs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brushup/join &amp; slice lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brushup/lambda_funcs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brushup/match statments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brushup/shopping list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brushup/variable scope.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brushup/working_with paths.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brushup/Defining classes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +34,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Defining classes.executor": "Run",
     "Python.Lists & Tuples.executor": "Run",
     "Python.conditional statements.executor": "Run",
     "Python.decorator_funcs.executor": "Run",
@@ -66,7 +51,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -120,7 +105,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1757592165121</updated>
-      <workItem from="1757592174891" duration="33364000" />
+      <workItem from="1757592174891" duration="35410000" />
     </task>
     <servers />
   </component>
@@ -148,6 +133,7 @@
     <SUITE FILE_PATH="coverage/ETLIFY$join___slice_lists.coverage" NAME="join &amp; slice lists Coverage Results" MODIFIED="1758721563814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/brushup" />
     <SUITE FILE_PATH="coverage/ETLIFY$Lists___Tuples.coverage" NAME="Lists &amp; Tuples Coverage Results" MODIFIED="1758721020963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/brushup" />
     <SUITE FILE_PATH="coverage/ETLIFY$match_statments.coverage" NAME="match statments Coverage Results" MODIFIED="1758724477593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/brushup" />
+    <SUITE FILE_PATH="coverage/ETLIFY$Defining_classes.coverage" NAME="Defining classes Coverage Results" MODIFIED="1759498962602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/brushup" />
     <SUITE FILE_PATH="coverage/ETLIFY$dictionaries.coverage" NAME="dictionaries Coverage Results" MODIFIED="1758722640755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/brushup" />
     <SUITE FILE_PATH="coverage/ETLIFY$lambda_funcs.coverage" NAME="lambda_funcs Coverage Results" MODIFIED="1759411436215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/brushup" />
     <SUITE FILE_PATH="coverage/ETLIFY$variable_scope.coverage" NAME="variable scope Coverage Results" MODIFIED="1758965658988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/brushup" />
